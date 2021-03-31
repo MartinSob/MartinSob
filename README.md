@@ -7,7 +7,7 @@
 💡 &nbsp;I like learning new technologies and implementing projects with different people.\
 🎓 &nbsp;I'm currently studying Informatic Systems Engineering.\
 🌱 &nbsp;I also enjoy learning about Game development and UI/UX.\
-✍️ &nbsp;In my free time, continue with my personal projects and enjoy my hobbies, like playing tennis.\
+✍️ &nbsp;In my free time, continue with my personal projects and enjoy my hobbies, like playing tennis.
 
 ### 🛠 &nbsp;Tech Stack
 
